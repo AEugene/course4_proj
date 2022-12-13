@@ -48,7 +48,8 @@ class Dev(Configuration):
         'django.contrib.sessions',
         'django.contrib.messages',
         'django.contrib.staticfiles',
-        'movies'
+        'movies',
+        'gh'
     ]
 
     MIDDLEWARE = [
